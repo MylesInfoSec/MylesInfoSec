@@ -7,7 +7,7 @@ I am a Computer Information Systems Student with an interest in cyber security s
 My studies in Cybersecurity have led me to develop a deep intrest in Security Operations, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 #
 
-## Certifications and Certificates
+## Certifications 
 
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-thebadge&logo=CompTIA&logoColor=white" />
