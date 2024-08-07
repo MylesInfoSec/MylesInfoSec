@@ -26,7 +26,7 @@ My studies in Cybersecurity have led me to develop a deep intrest in Security Op
 #
 
 
-## Tools and Software
+## Tools
  
 
 
