@@ -2,7 +2,10 @@
 <a href="https://www.linkedin.com/in/miles-maxie-84b313299/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-thebadge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a Computer Information Systems student with an interest in security operations. I am enhancing my security analyst skills through various certifications and hands-on projects. I am now looking for an opportunity to intern as a SOC Analyst in a security operations center. I am committed to gaining professional experience and developing my expertise in this dynamic field.
+
+Technically adept Computer Information Systems student with hands-on experience from extensive home lab projects. Eager to leverage practical knowledge and technical skills in a dynamic IT environment to contribute to efficient system operations, provide exceptional technical support, and drive continuous improvement. Seeking an opportunity to grow and develop within a forward-thinking organization committed to innovation and excellence in technology.
+
+
 
 
 #
