@@ -35,7 +35,12 @@ Driven and technically proficient Computer Information Systems student with a st
 
 ### Operating Systems
 <div>
-    <img src="https://img.shields.io/badge/-Linux-000000?&style=for-thebadge&logo=Linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-thebadge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-000000?&style=for-the-badge&logo=Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
  
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
