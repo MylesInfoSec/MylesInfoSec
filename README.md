@@ -44,3 +44,8 @@ Driven and technically proficient Computer Information Systems student with a st
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
+
+### Network
+<div>
+ <img src="https://img.shields.io/badge/-tcpdump-000000?&style=for-the-badge&logo=tcpdump&logoColor=white" />
+</div>
