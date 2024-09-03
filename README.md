@@ -3,7 +3,7 @@
 
 
 
-Driven and technically proficient Computer Information Systems student with a strong interest in Security Operations (SOC) looking to land a role as a SOC Analyst to leverage practical knowledge and technical skills from extensive home lab projects and hands-on experience. My journey in studying Computer Information Systems  has led me to develop a passion for cybersecurity. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Computer Information Systems student with technical experience, interpersonal skills, and a passion for security. Aspiring to join an organization as a SOC Analyst and contribute to company advancement with an improved security posture. 
 
 
 
