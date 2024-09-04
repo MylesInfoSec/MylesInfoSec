@@ -3,7 +3,9 @@
 
 
 
-Computer Information Systems student with technical experience, interpersonal skills, and a passion for security. Aspiring to join an organization as a SOC Analyst and contribute to company advancement with an improved security posture. 
+Computer Information Systems student with technical experience, and interpersonal skills.Eager to leverage practical knowledge and technical skills in a dynamic IT environment to contribute to efficient system operations, provide exceptional technical support, and drive continuous improvement. 
+
+
 
 
 
