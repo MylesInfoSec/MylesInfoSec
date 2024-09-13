@@ -2,8 +2,7 @@
 <a href="https://www.linkedin.com/in/miles-maxie-84b313299/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-thebadge&logo=linkedin&logoColor=white" /></a>
 
 
-
-Computer Information Systems student with technical experience, and interpersonal skills.Eager to leverage practical knowledge and technical skills in a dynamic IT environment to contribute to efficient system operations, provide exceptional technical support, and drive continuous improvement. 
+Computer Information Systems student with hands-on experience spanning through the domain of Security Operations with hands-on projects and cyber ranges,  and proven knowledge of cybersecurity concepts. I am an effective communicator and a passionate lifelong learner. I aspire to join an organization as a SOC Analyst and contribute to the company's advancement with an improved security posture.
 
 
 
