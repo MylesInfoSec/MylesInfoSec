@@ -13,7 +13,7 @@ Computer Information Systems student with technical experience, and interpersona
 
 #
 
-## Certifications 
+## Certifications & Certificates
 
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-thebadge&logo=CompTIA&logoColor=white" />
@@ -28,7 +28,7 @@ Computer Information Systems student with technical experience, and interpersona
 | Projects & Labs                                      | Tools and Software  Used      |
 |-----------------------------------------------|----------------------------|
 |   | 
-|  [Active Directory Home Lab](https://github.com/MylesInfoSec/Active-Directory-Home-Lab)  |<img src="https://img.shields.io/badge/-Active Directory-0078D6?&style=for-thebadge&logo=Nessus&logoColor=white" /> <img src="https://img.shields.io/badge/-Windows Server 2022-0078D6?&style=for-thebadge&logo=Nessus&logoColor=white" /> <img src="https://img.shields.io/badge/-VirtualBox-000000?&style=for-thebadge&logo=Nessus&logoColor=white" /> <img src="https://img.shields.io/badge/-Windows 10-0078D6?&style=for-thebadge&logo=Nessus&logoColor=white" />
+|  [S.O.A.R EDR (Lima Charle)]()  | <img src="https://img.shields.io/badge/-Windows Server 2022-0078D6?&style=for-thebadge&logo=Nessus&logoColor=white" /> <img src="https://img.shields.io/badge/-VirtualBox-000000?&style=for-thebadge&logo=Nessus&logoColor=white" /> <img src="https://img.shields.io/badge/-Windows 10-0078D6?&style=for-thebadge&logo=Nessus&logoColor=white" />
 #
 
 
