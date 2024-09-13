@@ -26,7 +26,6 @@ Computer Information Systems student with hands-on experience spanning through t
 
 | Projects & Labs                                      | Tools and Software  Used      |
 |-----------------------------------------------|----------------------------|
-|   | 
 |  [S.O.A.R EDR (Lima Charle)]()  | <img src="https://img.shields.io/badge/-Windows Server 2022-0078D6?&style=for-thebadge&logo=Nessus&logoColor=white" /> <img src="https://img.shields.io/badge/-VirtualBox-000000?&style=for-thebadge&logo=Nessus&logoColor=white" /> <img src="https://img.shields.io/badge/-Windows 10-0078D6?&style=for-thebadge&logo=Nessus&logoColor=white" />
 #
 
