@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/miles-maxie-84b313299/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-thebadge&logo=linkedin&logoColor=white" /></a>
 
 
-Computer Information Systems student with hands-on experience spanning through the domain of Security Operations with hands-on projects and cyber ranges,  and proven knowledge of cybersecurity concepts. I am an effective communicator and a passionate lifelong learner. I aspire to join an organization as a SOC Analyst and contribute to the company's advancement with an improved security posture.
+I'm a Computer Science student with a strong passion for cybersecurity. I am focused on building and refining my skills in security operations, aiming to develop a deep understanding of threat detection, incident response, and proactive defense strategies. With a commitment to continuous growth, I look forward to contributing to a team that prioritizes innovation, collaboration, and resilience in protecting digital assets.
 
 
 
