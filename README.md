@@ -24,7 +24,7 @@ I'm a Computer Science student with a strong passion for cybersecurity. I am foc
 #
 <h2>👨‍💻 Projects & Labs:</h2>
 
-| Projects & Labs                                      | Tools and Software  Used      |
+| Projects & Labs                                      | Skills Learned       |
 |-----------------------------------------------|----------------------------|
 |  [S.O.A.R EDR Lab]()  | <img src="https://img.shields.io/badge/-Windows Server 2022-0078D6?&style=for-thebadge&logo=Nessus&logoColor=white" /> <img src="https://img.shields.io/badge/-VirtualBox-000000?&style=for-thebadge&logo=Nessus&logoColor=white" /> <img src="https://img.shields.io/badge/-Windows 10-0078D6?&style=for-thebadge&logo=Nessus&logoColor=white" />
 #
