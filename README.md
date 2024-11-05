@@ -1,4 +1,4 @@
-# Hello, I'm Miles 
+# Hello, I'm Miles Maxie
 <a href="https://www.linkedin.com/in/miles-maxie-84b313299/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-thebadge&logo=linkedin&logoColor=white" /></a>
 
 
@@ -22,11 +22,12 @@ I'm a Computer Science student with a strong passion for cybersecurity. I am foc
 
 
 #
-<h2>👨‍💻 Projects & Labs:</h2>
+<h2>👨‍💻 Projects:</h2>
 
-| Projects & Labs                                      | Skills Learned       |
+| Skill                                      |    Associated Projects    |
 |-----------------------------------------------|----------------------------|
-|  [S.O.A.R EDR Lab]()  | <img src="https://img.shields.io/badge/-Windows Server 2022-0078D6?&style=for-thebadge&logo=Nessus&logoColor=white" /> <img src="https://img.shields.io/badge/-VirtualBox-000000?&style=for-thebadge&logo=Nessus&logoColor=white" /> <img src="https://img.shields.io/badge/-Windows 10-0078D6?&style=for-thebadge&logo=Nessus&logoColor=white" />
+| Incident Response Planning and Execution   | [S.O.A.R EDR Lab]()
+
 #
 
 
