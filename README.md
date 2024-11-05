@@ -13,7 +13,7 @@ I'm a Computer Science student with a strong passion for cybersecurity. I am foc
 | Skill                                      |    Associated Projects    |
 |-----------------------------------------------|----------------------------|
 | Incident Response Planning and Execution   | [S.O.A.R EDR Lab]()           |
-| Scripting and Automation for Threat Mitigation | [S.O.A.R EDR Lab]()                              |
+| Security Automation with Tines SOAR | [S.O.A.R EDR Lab]()                              |
 
 
 
