@@ -14,10 +14,10 @@ I'm a Computer Science student with a strong passion for cybersecurity. I am foc
 |-----------------------------------------------|----------------------------|
 | Incident Response Planning and Execution   | [S.O.A.R EDR Lab]()           |
 | Scripting and Automation for Threat Mitigation | [S.O.A.R EDR Lab]()                              |
-#
 
 
-## Tools 🛠️
+
+## 🛠️ Tools 
  
 
 ### SIEM
@@ -37,9 +37,13 @@ I'm a Computer Science student with a strong passion for cybersecurity. I am foc
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
-## Certifications & Certificates
+## 📝 Projects 
+- [S.O.A.R EDR Lab]()
+
+  ## Certifications & Certificates
 
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 </div>
+
