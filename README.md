@@ -8,7 +8,7 @@ I'm a Computer Science student with a strong passion for cybersecurity. I am foc
 
 
 
-<h2>👨‍💻 Projects:</h2>
+<h2>👨‍💻 Skills:</h2>
 
 | Skill                                      |    Associated Projects    |
 |-----------------------------------------------|----------------------------|
