@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/miles-maxie-84b313299/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I'm a Computer Science student with a strong passion for cybersecurity. I am focused on building and refining my skills in security operations, aiming to develop a deep understanding of threat detection, incident response, and proactive defense strategies. With a commitment to continuous growth, I look forward to contributing to a team that prioritizes innovation, collaboration, and resilience in protecting digital assets.
+I’m a Computer Science student with a strong foundation in cybersecurity principles and a passion for security operations. I am focused on honing my skills in threat detection, incident response, and proactive defense strategies. I’m  looking forward to contributing to a team that prioritizes innovation, collaboration, and resilience in safeguarding digital assets.
 
  
 
