@@ -8,7 +8,7 @@ I’m a Computer Science student with a strong foundation in cybersecurity princ
 
 
 
-<h2>👨‍💻 Skills:</h2>
+<h2> 🛡️Skills:</h2>
 
 | Skill                                      |    Associated Projects    |
 |-----------------------------------------------|----------------------------|
